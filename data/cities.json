@@ -59,18 +59,6 @@
         "lng": "49.59228515625"
       },
       "id": 98443200
-    },
-    {
-      "cityName": "San Francisco",
-      "country": "United States of America (the)",
-      "emoji": "🇺🇸",
-      "date": "2023-07-17T10:20:38.222Z",
-      "notes": "klk",
-      "position": {
-        "lat": "37.756601334851126",
-        "lng": "-122.48107910156251"
-      },
-      "id": 98443201
     }
   ]
 }
